@@ -176,10 +176,4 @@ footer{
 
 nav a:hover{
     color: rgb(217, 241, 4);
-    background-color: rgb(243, 142, 0);
-}
-
-nav1 a:hover{
-    color: rgb(217, 241, 4);
-    transition: 0.2s;
 }
