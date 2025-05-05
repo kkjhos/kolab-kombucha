@@ -138,6 +138,11 @@ section.product{
     border-radius: 15px;
 }
 
+.card:hover{
+    transform: scale(1.05);
+    box-shadow: 0 8px 16px rgb(203, 191, 11);
+}
+
 section.contact{
     background: url("toko.png");
     background-size: cover;
