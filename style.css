@@ -77,7 +77,7 @@ section.about div{
     color: white;
     text-align: center;
     margin: auto;
-    width: 70%;
+    width: 80%;
 }
 
 section.about img{
@@ -85,7 +85,7 @@ section.about img{
 }
 
 .deskripsi3{
-    font-size: 25px;
+    font-size: 20px;
 }
 
 section.product{
